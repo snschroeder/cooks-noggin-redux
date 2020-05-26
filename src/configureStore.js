@@ -7,6 +7,7 @@ Shape of state
   sort: ['new', 'best'],
 
   user: {
+    // will we store auth token here too?
     id: 'eb81c150-8211-44e5-8913-2444e2bf71f5',
     username: 'overlord'
   },
